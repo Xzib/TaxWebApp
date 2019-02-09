@@ -1,0 +1,28 @@
+#background{
+    background-color: cadetblue
+}
+
+#gridview{
+    display: grid;
+    grid-template-columns: 30% 30%;
+    padding: 10px;
+}
+
+#gridview1{
+    display: grid;
+    padding: 10px;
+    grid-template-columns: 15% 15% 30%;
+}
+
+.class heading{
+    font-size: 18px;
+    font-weight: bold;
+    margin: auto auto;
+}
+
+.class inputItems{
+    background-color: lightcyan;
+    margin: auto auto;
+    padding: 2px;
+    opacity: 100%;
+}
